@@ -1,0 +1,498 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Bill for uniting the Protestants.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76711</idno>
+            <idno type="STC">Wing B2890B</idno>
+            <idno type="STC">ESTC R176533</idno>
+            <idno type="EEBO-CITATION">47682805</idno>
+            <idno type="OCLC">ocm 47682805</idno>
+            <idno type="VID">172763</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76711)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172763)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2649:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Bill for uniting the Protestants.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford? :</pubPlace>
+                  <date>1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication information from Wing (2nd ed.).</note>
+                  <note>Imperfect: tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in: Birmingham Central Reference Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Act of Uniformity (1662)</term>
+               <term>Church and state --  England.</term>
+               <term>Loyalty oaths --  England.</term>
+               <term>Dissenters, Religious --  England.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Korey Jackson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Korey Jackson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172763:1"/>
+            <pb n="14" facs="tcp:172763:2"/>
+            <pb n="1" facs="tcp:172763:2" rendition="simple:additions"/>
+            <head>A BILL for <g ref="char:V">Ʋ</g>niting the Proteſtants.</head>
+            <p>WHereas there are many Jealouſies riſen about <hi>Pope<g ref="char:EOLhyphen"/>ry,</hi> which makes it even neceſſary to the Peace of the Nation, that the <hi>Proteſtant</hi> Intereſt be u<g ref="char:EOLhyphen"/>nited and ſtrengthned by all good and lawful Means: And to this end, there being this one proper Ex<g ref="char:EOLhyphen"/>pedient, to wit, the removing the Occaſion of Diviſions, which ſeveral Perſons do find to themſelves in thoſe late In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unctions, which yet were intended to the ſame purpoſe of Concord in the Nation: Be it Enacted, — That an Ex<g ref="char:EOLhyphen"/>planation of theſe Impoſitions, and ſuch Alleviations, be al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owed to the tenderly Conſiderate, and peaceably Scrupu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous, as follows.</p>
+            <p>In the <hi>Act of Uniformity,</hi> By the <hi>Declaration of Aſſent and Conſent to all Things, and every Thing contained in, and pre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cribed by the Two Books, Of Common-Prayer, and Of Ordering Priests and Deacons,</hi> we under<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tand not,
+
+
+<note place="margin">Theſe Materials were provided, du<g ref="char:EOLhyphen"/>ring the ſitting of that <hi>Parliament,</hi> which paſſed the <hi>Act of Uniformity,</hi> and other the like Rigorous Acts; and are there<g ref="char:EOLhyphen"/>fore drawn up in the Form of an <hi>Expla<g ref="char:EOLhyphen"/>natory Bill,</hi> becauſe it was ſuppoſed, they were not like to <hi>Repeal</hi> their own Acts, though they might be got to <hi>Interpret</hi> them. But now we have a New <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> and that after another alſo Diſ<g ref="char:EOLhyphen"/>ſolved, we may expect quicker Work: Yet will the Propoſing theſe Things ſtill to view, have their uſe, both for repreſſing ſuch as have ſaid, The <hi>Non-conformiſts</hi> know not what they would have; and ſetting ſome Meaſure to our own Deſires, and the <hi>Parlia<g ref="char:EOLhyphen"/>ments</hi> Condeſcentions about the ſame.</note>
+
+
+ that theſe Books are <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n every Minute particular, in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>allible, or free from that Defect, which is incident to all Human Compoſure: but that they are in the main Contents, to be ſin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erely approved and uſed. And we do therefore allow this De<g ref="char:EOLhyphen"/>claration to be ſufficient, if it be made to the uſe of the Book, in the <hi>Ordinary Conſtant Lord</hi>'s-<hi>Day Service,</hi> notwithſtanding any Exceptions ſome may have againſt ſome Things in the <hi>By-Offices,</hi> and <hi>Occaſional-Service,</hi> the <hi>Rubrick,</hi> and otherwiſe. And for the Ceremonies, which are made, and have been al<g ref="char:EOLhyphen"/>wayes,
+<pb n="2" facs="tcp:172763:3" rendition="simple:additions"/>and on all hands, held to be only indifferent Thing<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we think fit that they be left to the Conſciences and P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dence of Miniſters, and People, every where (excepting th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Cathedrals</hi>) to uſe them, or forbear them, as they judge <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> moſt meet for their own and others Edification. Provide<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that if any Perſon will have his Child Baptized with t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Signe of the <hi>Croſs,</hi> or ſtands upon any thing elſe, hither<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> required by the Service-Book, if the Miniſter himſelf ſcr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ple the Performance, he ſhall have alwayes ſome Aſſiſtan<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> or Curate, ready to do it.</p>
+            <p>In the ſame <hi>Act,</hi> By thoſe Words in the <hi>Subſcription,</hi> tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>It is not lawful to take Arms againſt the</hi> King, <hi>upon any Pre<g ref="char:EOLhyphen"/>tence whatſoever;</hi> we intend no new or ſtrange Thing, bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the rightful Maintenance only of the <hi>King</hi>'s Authority againſt Rebellion,
+
+
+<note place="margin">Our Reaſons for theſe Interpretations, appear in our Arguments before, againſt the <hi>Oxford-Oath,</hi> and this <hi>Subſcripti<g ref="char:EOLhyphen"/>on;</hi> which we can by no means ſubmit to, without them. There is moreover this Clauſe [<hi>And I will conform to the</hi> Li<g ref="char:EOLhyphen"/>turgy <hi>of the Church, as it is now by Law Eſtabliſhed</hi>] we deſire may be ſpa<g ref="char:EOLhyphen"/>red; becauſe upon our Declaration be<g ref="char:EOLhyphen"/>fore of <hi>Aſſent</hi> and <hi>Conſent,</hi> (which muſt be the Bounds of our Senſe thereof) it is needleſs altogether, and can ſerve but for a Snare only to Mens Conſciences.</note>
+
+
+ according to the com<g ref="char:EOLhyphen"/>mon Determination of Learned Writers, in the Caſe of Subjec<g ref="char:EOLhyphen"/>tion to Princes. By the Words, <hi>I abhor the Poſition of taking Arm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by the Authority of the</hi> King, <hi>a<g ref="char:EOLhyphen"/>gainſt any Commiſſionated by him,</hi> we never thought of Advancing the Arbitrary Commiſſions of the <hi>King,</hi> above Law; but by thoſe <hi>Commiſſionated by him,</hi> we underſtand ſuch as are Legally Commiſſionated, and in the Legal Purſuit of ſuch Commiſſions. By the Clauſe which follows, that requires a Renunciation of all <hi>Endeavour of a<g ref="char:EOLhyphen"/>ny Alteration of Government in the Church or State,</hi> we ne<g ref="char:EOLhyphen"/>ver meant to deny any Free-Born Subject his Right, of Chooſing <hi>Parliament-Men,</hi> or Acting in his Place for the Common Good any way, according to Law; but that he ſhall Renounce all ſuch <hi>Endeavour,</hi> as is Seditious, or not warranted by the Conſtitution of the Nation; and parti<g ref="char:EOLhyphen"/>cularly,
+<pb n="3" facs="tcp:172763:3"/>ſuch an <hi>Endeavour</hi> as was Aſſumed in the late <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes, without, and againſt the Conſent of the <hi>King.</hi> And <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the reſt of the <hi>Subſcription,</hi> which is enjoyned but to the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar 1682, Be it enacted, that it ceaſe preſently, and be <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> longer enjoyned.</p>
+            <p>And foraſmuch as there is an Oath preſcribed and re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>red of all <hi>Non-conformiſt</hi> Preachers, that Reſide in any <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rporate-Town, by a certain Act of this <hi>Parliament,</hi> made <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Oxford</hi> in the 17th. Year of His now Majeſty's Reign, En<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>led, <hi>An Act for reſtraining</hi> Non-conformiſts, <hi>from inha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng Corporations:</hi> We do further declare, That it ſhall ſuf<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>any Man, for the Enjoyment of his Free-born Liberty, of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>abiting where he thinks beſt; <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſerve him alſo inſtead of the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e-mentioned <hi>Subſcription;</hi>
+
+
+               <note place="margin">This <hi>Oath</hi> is of the ſame Contents with the <hi>Subſcription</hi> before; and to impoſe both, is nothing elſe but the multiplying Wrath, and laying Load on the already Laden.</note>
+
+
+ to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e that <hi>Oath</hi> in this Form of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ords following. <hi>I</hi> A. B. <hi>do <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r, That I hold it unlawful up<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny Pretence, to take Arms a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st the</hi> King, <hi>his Government or Laws: And that I diſclaim <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> dangerous Poſition, of taking Arms by his Authority, againſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Perſon, or any Legally Commiſſionated by him, in the Legal ſuit of ſuch Commiſſions: And that I will not Endeavour Alteration of Government in the Church or State, in any way <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anner, not warranted by the Conſtitution of the Kingdom, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y otherwiſe than by Act of</hi> Parliament. And as ſoon as <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Man hath taken the <hi>Oath</hi> thus, he ſhall be diſcharged <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Penalty for his Omiſſion before.</p>
+            <p>We do declare moreover, That whereas it is required al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <hi>Act of Uniformity,</hi> that every Miniſter who enjoys Living, or Eccleſiaſtical Preferment, ſhall be Ordained <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Biſhop; and there are ſeveral Perſons of late, who in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Neceſſity, for want of Biſhops, took Presbyterian<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers: Our Meaning is not in any wiſe to diſguſt the Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed-Churches beyond the Seas, and make it neceſſary
+<pb n="4" facs="tcp:172763:4"/>for ſuch to be Re-ordained to the <hi>Office;</hi> but that they r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ceive this Second Impoſition <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Hands,
+
+
+<note place="margin">There is <hi>Reordinatio ad Officium,</hi> which (we ſay) is generally decryed by Divines: or <hi>Re-ordinatio ad Exerciti<g ref="char:EOLhyphen"/>um particulare,</hi> which may be irrefra<g ref="char:EOLhyphen"/>gably proved from <hi>Acts 13.2, 3.</hi> with <hi>Acts 14.26.</hi> and conſequently allow'd to ſerve this Occaſion.</note>
+
+
+ to the <hi>Exerciſe</hi> of the<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Office in the new Charge, un<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which they are, or ſhall be ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>led; and that the Biſhop ſh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> frame his Words accordingly.</p>
+            <p>And whereas there is a <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſcription</hi> alſo in the <hi>Canons,</hi> a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Canonical-Oath</hi> of <hi>Obedience,</hi> impoſed on moſt Miniſte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the Biſhops, that have given ſome of the greateſt Oc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſion to <hi>Non-conformity</hi> here<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fore;
+
+
+<note place="margin">If the <hi>Oaths</hi> of <hi>Supremacy</hi> and <hi>Alle<g ref="char:EOLhyphen"/>giance</hi> be taken, and the <hi>Articles</hi> of the <hi>Church</hi> ſubſcribed, and the <hi>Declaration</hi> before to the <hi>Common-Prayer,</hi> made; we ſee no need of boyling over theſe Three Things again for us, in the <hi>Canons,</hi> un<g ref="char:EOLhyphen"/>leſs it be for a <hi>Crambe Repetita,</hi> on pur<g ref="char:EOLhyphen"/>poſe to Kill us. Neither do we think the putting any Honeſt Men who fear <hi>God,</hi> out of the Vineyard, to be ſo good a Thing for her, that our Wiſe Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> ſhould uſe ſo much Care and Indu<g ref="char:EOLhyphen"/>ſtry as She takes, that She may not miſs to do it.</note>
+
+
+ which yet never paſſed to Law by any Act of <hi>Par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ment:</hi> We do further decla<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> That nothing more of that k<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhall be required of Miniſt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hence-forward, then was ma<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and held neceſſary, by the Ac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Thirteenth</hi> of <hi>Elizabeth.</hi>
+            </p>
+            <p>And in regard there hath b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great Offence taken by Con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>entious Miniſters, at the Biſho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (or their Courts) command<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them to read the Sentence <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Excomunication againſt ſome or other of their Pariſh, for<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Faults as they think not at all worthy of ſo great a Cenſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> We declare it but a juſt Thi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that every Miniſter be firſt ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fyed in the Cauſe,
+
+
+<note place="margin">As we think, there is no <hi>Elder</hi> in the <hi>New-Teſtament,</hi> who is not a <hi>Paſtor,</hi> and that there is no <hi>Lay-Paſtor;</hi> ſo do we account, that there is no <hi>Paſtor</hi> or <hi>Preſ<g ref="char:EOLhyphen"/>byter,</hi> but ſuch as have the Power both to <hi>Rule</hi> and <hi>Teach,</hi> committed to them by <hi>Chriſt:</hi> Yet do we for all that, prehe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d it not only <hi>Lawful,</hi> but <hi>Expedient,</hi> for the ordinary Miniſters of o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>rochial</hi>-Congregations, (when the Church is <hi>National</hi>) to commit part of Charge, (to wit, that of <hi>Ruling</hi>) <hi>in Actu Secundo,</hi> to ſome few among who are more Eminently fitted for the Work, (that is, the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) and conſequently to the Biſhop: So that, if this Fundamental Right of Governing their own Flocks, be but acknowledged to Reſide in every <hi>Presbyter,</hi> by granting ſo much to us as this (and what hath preceded) comes to, we ſhall be unwilling to fall off from <hi>Epiſcopacy,</hi> upon the Points of <hi>Ordination</hi> and <hi>Juriſdiction.</hi>
+               </note>
+
+
+ or elſe exempted from the Execu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:172763:4"/>of that Charge; and that the Biſhop (or his Court) provide ſome other Perſon, that is ſatiſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yed about it, to do it.</p>
+            <p>And to the intent, that a free Search after Truth may not be diſcouraged in the Purſuit of Concord, and many other Scruples avoided upon that Account: We declare, That though an <hi>Authentick</hi> Inter<g ref="char:EOLhyphen"/>pretation be required, as to the Subſtance of all Laws,
+
+
+
+
+
+ yet in the Articles of the <hi>Church,</hi> (which are <hi>Theſes</hi> for Agree<g ref="char:EOLhyphen"/>ment, and not Laws) and the <hi>Homilies,</hi> a <hi>Doctrinal</hi> Interpre<g ref="char:EOLhyphen"/>tation ſhall be held ſufficient for an <hi>Aſſent</hi> or <hi>Subſcription</hi> to them.
+ 
+ <note place="margin">The <hi>Authentick</hi> Interpretation of an Article, is the Meaning of the Major Part of the <hi>Convocation:</hi> A <hi>Doctri<g ref="char:EOLhyphen"/>nal</hi> Interpretation, is the Meaning of a<g ref="char:EOLhyphen"/>ny one of the <hi>Doctors</hi> there preſent, (and conſequently, of any other Learned <hi>Ex<g ref="char:EOLhyphen"/>poſitor</hi>) who are ſuppoſed to have the Li<g ref="char:EOLhyphen"/>berty to abound in their own Senſe, ſo long as they can agree in the Words of the <hi>Article</hi> Eſtabliſhed. And this Clauſe therefore we put in upon Mature Con<g ref="char:EOLhyphen"/>ſideration, in regard more eſpecially to the <hi>Conſcientious Latitudinarians,</hi> (which is a Name abuſed) who being ſome <hi>Arminian,</hi> and ſome <hi>Calvinian,</hi> cannot otherwiſe Sub<g ref="char:EOLhyphen"/>ſcribe the <hi>Doctrine</hi> of the ſame <hi>Theſes;</hi> as the <hi>Reader</hi> may ſee more in ſuch a<g ref="char:EOLhyphen"/>nother Book as this, call'd <hi>The Healing Paper,</hi> out of which this <hi>Bill</hi> for <hi>Union<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> newly Collected.</note>
+            </p>
+            <p>And becauſe the very Super<g ref="char:EOLhyphen"/>intendency of Biſhops, and that Subjection to them which is required by the Conſtitution of the Realm, is or may be an Hinderance to many ſober Mi<g ref="char:EOLhyphen"/>niſters, and other <hi>Proteſtants,</hi> of coming into the Church, who are ready to conſent to the Do<g ref="char:EOLhyphen"/>ctrine, but not to the Diſcipline or Government of it: We do declare, That ſo long as any Perſon or Party do acknowledge the <hi>King</hi>'s <hi>Supremacy,</hi> as <hi>Head</hi> of the <hi>Church</hi> in this Nation, and obey their Ordina<g ref="char:EOLhyphen"/>ry,
+<pb n="6" facs="tcp:172763:5"/>or the Biſhops,
+
+
+<note place="margin">That is, Although there be ſome that cannot acknowledge our <hi>Dioceſan Pre<g ref="char:EOLhyphen"/>lates</hi> to be <hi>Chriſts Officers,</hi> diſtinct from the <hi>Elders</hi> in Scripture: Yet ſo long as they can live Peaceable Lives, in Obedi<g ref="char:EOLhyphen"/>ence to them, as Eccleſiaſtical Magi<g ref="char:EOLhyphen"/>ſtrates under His Majeſty, for the keep<g ref="char:EOLhyphen"/>ing the ſeveral Congregations, in their Precincts, <hi>to that Goſpel-Order, which themſelves allow, and for ſuper-viſing their Conſtitutions in Things indiffe<g ref="char:EOLhyphen"/>rent, that nothing be done, but in Subordination to the Peace of the King<g ref="char:EOLhyphen"/>dom,</hi> (which is a Notion wherein the Judicious of every Party may acquieſce, and expreſſed by us therefore in theſe ve<g ref="char:EOLhyphen"/>ry Words before, <hi>p. 31.</hi>) it is ſufficient unto National-Church-<g ref="char:V">Ʋ</g>nion.</note>
+
+
+               <hi>in Licitis &amp; Honeſtis,</hi> upon the Account of <hi>his</hi> Authority (committed to them for the Exerciſe of that Exter<g ref="char:EOLhyphen"/>nal Regiment <hi>Circa Sacra</hi> which is granted by all our Divines, to the Higher Powers in every Nation), it is enough for the owning <hi>Epiſcopal Juriſdiction</hi> (ſo far as they do own it, in the De<g ref="char:EOLhyphen"/>claration of <hi>Aſſent</hi> and <hi>Conſent,</hi> or in any other Part of <hi>Confor<g ref="char:EOLhyphen"/>mity</hi>), and ſhall ſerve them to all Intents and Purpoſes in Law, no leſs than a profeſſed Belief and Acknowledgment of the im<g ref="char:EOLhyphen"/>mediate Divine Right of it.</p>
+            <p>Be it therefore Enacted by this Preſent <hi>Parliament,</hi> That if any Perſon be willing to Conform to the Preſent Eſta<g ref="char:EOLhyphen"/>bliſhment of the <hi>Church of England,</hi> and her Service ap<g ref="char:EOLhyphen"/>pointed according to theſe Explanations, Alleviations, De<g ref="char:EOLhyphen"/>clarations, Lenitives, or Cautions, he ſhall be admitted to any Eccleſiaſtical Preferment, and enjoy the uſe of his Mi<g ref="char:EOLhyphen"/>niſtry without any Moleſtation: All Statutes, Canons, or Laws to the contrary notwithſtanding.</p>
+            <p>And for the making this Act of better Signification to the Concerned, and the Prevention of that Scandal which is raiſed on the Clergy, through the Covetouſneſs of ſome, in heaping up to themſelves all the Preferments they can get, when others have ſcarce Subſiſtance for their Families, and the Souls of many People are thereby neglected: Be it farther Enacted, That no Clergy-Man for the Three next Years enſuing, be ſuffered to En<g ref="char:EOLhyphen"/>joy and more than one Living, or Cure of Souls,
+
+
+<note place="margin">We propoſe theſe Things, we confeſs, as we were in <hi>Republica Platonis;</hi> but ſhould be glad to ſee any Fruits of this kind, as thoſe who are in <hi>Faece Romu<g ref="char:EOLhyphen"/>li</hi> may expect. What is Right and Juſt, and ought to be done, is one thing, and to be ſought; though what is like to be done, or will be done, is ano<g ref="char:EOLhyphen"/>ther.</note>
+
+
+ and one Dignity,
+<pb n="7" facs="tcp:172763:5"/>(or other Eccleſiaſtical Preferment) at one Time; and that every Man (without Exception) that hath more than One of Either, ſhall immediately give up the Reſt to be diſtributed among thoſe who ſhall be brought off from their <hi>Non-conformity,</hi> upon the Terms of this <hi>Act</hi> into the Eſtabliſhed Order. Which that they may alſo be obtained, and poſſeſſed with a clean Con<g ref="char:EOLhyphen"/>cience, and that grievous Corruption of <hi>Simony</hi> may be Extirpate out of the Land: Be it Enacted moreover, That very Patron that ſhall henceforward preſent his Clerk to my Living, ſhall have the Oath called <hi>The Simoniacal Oath,</hi> impoſed on himſelf, no leſs than on the Incumbent: And <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f he Refuſes to take it, that then the Biſhop ſhall have <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmediat Power (taking only the ſame Oath) of Preſenta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on in his Room.</p>
+            <p>And foraſmuch, as there are ſome Miniſters of a good <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ife, that cannot (according to their Judgments) allow of our <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arochial Churches, nor a Book of <hi>Liturgy;</hi> but do chooſe to Worſhip <hi>God,</hi> and <hi>Jeſus Christ,</hi> in the way of their Gathered or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eparate Congregations; and crave the Protection and Cle<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ency of the <hi>King,</hi> upon their <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llegiance, as other Subjects:
+
+
+<note place="margin">There are two Parts of this <hi>Bill;</hi> One for <hi>Concord</hi> or <hi>Coalition</hi> with all ſuch as can joyn in Parochial Communion, in the Clauſes before: The Other for <hi>For<g ref="char:EOLhyphen"/>bearance</hi> of thoſe that cannot, in this laſt Clauſe. For, What ſhall we do with ſuch? We muſt not Knock them on the Head: They muſt therefore have Time. If the <hi>Parliament</hi> will begin with the Laſt firſt, that is, a Suſpenſion of the Penal Statutes, and then let us treat for a Com<g ref="char:EOLhyphen"/>poſition after, we conſent with all our Hearts, and like the Method beſt. <q>Then <hi>Abner</hi> called unto  <hi>Joab,</hi>and ſaid, Shall the Sword devour for ever! Knoweſt thou not, that it will be Bitterneſs in the latter End! How long ſhall it be, ere thou bid the People return from following of their Brethren.</q>
+               </note>
+
+
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e it finally Enacted, for the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>appineſs &amp; Quiet of the Realm, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Reduction of theſe Men <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other means than thoſe which have hitherto proved <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſucceſsful, That every Chri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an Subject throughout the and, that profeſs the Reform<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Religion, and be not Convict <hi>Popery,</hi> be pardoned all Faults <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Penalties, incurred upon the
+<pb n="8" facs="tcp:172763:6"/>Account of any Fore-paſſed <hi>N<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> conformity;</hi> and that they ſh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not,
+
+
+<note n="*" place="bottom">
+                  <g ref="char:V">Ʋ</g>ntil by a farther Act of Parliament, or a Convocation, thoſe that are <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be Tolerated, and the Intolerable, be diſtinguiſhed.</note>
+
+
+ during theſe Seven Ye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> next enſuing, be proſecuted on any Penal Law for their C<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſciences, in the Matter of Religion; They carrying the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſelves Innocently and Peaceably, with Submiſſion to the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vil, and without Diſturbance to the Eccleſiaſtical Gove<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ment, now ſetled in the Nation: All Statutes or Canons the contrary notwithſtanding.</p>
+            <div type="conclusion">
+               <head>In ſhort, </head>
+               <p>A Repeal of all our Laws about <hi>Conformity</hi> unto the r<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of <hi>Elizabeth,</hi> or, A New <hi>Act of Uniformity,</hi> or, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>King</hi>'s Declaration concerning Eccleſiaſtical Affairs at firſt Coming-in, turn'd into a Law, were <hi>Comprehenſion</hi>
+               </p>
+               <p>His latter Declaration to all his Loving Subjects (ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> few Things in Both yet a little conſidered) made ſo, w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Indulgence.</hi>
+               </p>
+               <p>A Bill for <hi>Comprehenſion</hi> with <hi>Indulgence,</hi> both toget<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> will do our Buſineſs. An Addition, or Clauſe in it, aga<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Pluralities,</hi> will do it with Supererogation.</p>
+            </div>
+            <closer>Deo Gloria.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="note">
+            <head>Advertiſement.</head>
+            <p>THis <hi>Bill</hi> (as appears by the <hi>Margine</hi>) is one Sheet of (or there-abouts) Entituled, <hi>Materials for Union;</hi> freſh out, and humbly Preſented to the Conſideration of <hi>P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> London.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
